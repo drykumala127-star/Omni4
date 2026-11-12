@@ -1,0 +1,6 @@
+{
+  "name": "OmniFile",
+  "description": "Professional Android development toolkit, APK analysis, reverse engineering suite, file manager, and source code explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
